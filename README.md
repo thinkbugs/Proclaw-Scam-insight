@@ -10,7 +10,7 @@
 
 ## 项目概述 / Overview
 
-**ProClaw Scam Insight** 是一个基于不确定性理论和风险转移机制的顶级骗局洞察系统。它不仅提供识别骗局的能力，更是一个完整的市场操作系统，帮助用户从被收割者进化为顶层玩家。
+**ProClaw Scam Insight** 是一个基于不确定性理论和风险转移机制的顶级骗局洞察系统。它不仅提供识别骗局的能力，更是一个完整的市场操作系统，帮助用户从被收割者进化为优秀玩家。
 
 **ProClaw Scam Insight** is an ultimate scam recognition system based on uncertainty theory and risk transfer mechanisms. It goes beyond simple scam detection to provide a complete market operating system, helping users evolve from victims to top-tier players.
 
